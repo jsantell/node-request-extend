@@ -1,4 +1,4 @@
-// lineCutter( [ namespace ], object, [ force ] );
+// require('request-extend')( [ namespace ], object, [ force ] );
 module.exports = function () {
   var
     args = Array.prototype.slice.call( arguments, 0 ),

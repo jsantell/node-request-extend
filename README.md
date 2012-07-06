@@ -1,4 +1,4 @@
-node-line-cutter
+node-request-extend
 ================
 
 Jumps in your middleware and extends route requests with references
