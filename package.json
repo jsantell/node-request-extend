@@ -1,20 +1,21 @@
 {
-  "name" : "line-cutter",
-  "description" : "Cuts in line of your middleware and adds references to request",
+  "name" : "request-extend",
+  "description" : "Jumps in your middleware and extends route requests with references",
   "version" : "0.1.0",
-  "main" : "line-cutter.js",
+  "main" : "request-extend.js",
   "dependencies" : {},
   "devDependencies" : {
     "nodeunit" : ">= 0.7.4"
   },
   "repository" : {
     "type" : "git",
-    "url" : "http://github.com/jsantell/node-line-cutter"
+    "url" : "http://github.com/jsantell/node-request-extend"
   },
   "keywords" : [
     "middleware",
     "connect",
-    "request"
+    "request",
+    "extend"
   ],
   "author" : {
     "name" : "Jordan Santell",
